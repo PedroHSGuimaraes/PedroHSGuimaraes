@@ -1,4 +1,4 @@
-# Meu Perfil
+# Olá, Sou o Pedro Henrique Santos Guimarães
 
 ## Desenvolvedor Backend
 
@@ -13,4 +13,4 @@ Olá! Sou um desenvolvedor backend apaixonado por criar soluções robustas e es
 
 ## GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=flat-square)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroHSGuimaraes&show_icons=true&theme=flat-square)
