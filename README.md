@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Backend
 
-![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express.js](https://img.icons8.com/office/40/000000/javascript.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![MySQL](https://img.icons8.com/fluency/48/000000/mysql-logo.png) ![ORM](https://img.icons8.com/fluency/48/000000/database.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Django REST Framework](https://img.icons8.com/color/48/000000/django.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![ORM](https://img.shields.io/badge/-ORM-00447C?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat-square&logo=django&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 Olá! Sou um desenvolvedor backend apaixonado por criar soluções robustas e escaláveis. Trabalho principalmente com TypeScript e Node.js, mas também tenho experiência em Python e Java. Adoro trabalhar com bancos de dados relacionais como PostgreSQL e MySQL, e tenho experiência com ORMs para agilizar o desenvolvimento.
 
@@ -13,4 +13,4 @@ Olá! Sou um desenvolvedor backend apaixonado por criar soluções robustas e es
 
 ## GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=flat-square)
