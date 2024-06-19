@@ -14,3 +14,4 @@ Olá! Sou um desenvolvedor backend apaixonado por criar soluções robustas e es
 ## GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedroHSGuimaraes&show_icons=true&theme=flat-square)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
