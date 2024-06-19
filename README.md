@@ -8,8 +8,8 @@ Olá! Sou um desenvolvedor backend apaixonado por criar soluções robustas e es
 
 ## Contato e Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santos-guimar%C3%A3es-b06555121/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:pedro.guimaraes02@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5865F2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santos-guimar%C3%A3es-b06555121/)
+[![Outlook](https://img.shields.io/badge/-Outlook-5865F2?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:pedro.guimaraes02@hotmail.com)
 
 ## GitHub Stats
 
