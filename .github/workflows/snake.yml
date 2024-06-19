@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+    - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Generate Snake
+      uses: Platane/snk@master
+      id: snake-gif
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        svg_out_path: dist/github-contribution-grid-snake.svg
+
+    - name: Upload Snake
+      uses: actions/upload-artifact@v2
+      with:
+        name: snake
+        path: dist/github-contribution-grid-snake.svg
