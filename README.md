@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=Engenharia+de+Computa%C3%A7%C3%A3o;Engenharia+Biom%C3%A9dica;Desenvolvedor+Full+Stack;Belo+Horizonte%2C+MG%2C+Brasil)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=Engenharia+da+Computação;Engenharia+Biomédica;Desenvolvedor+Full+Stack;Belo+Horizonte%2C+MG%2C+Brasil)](https://git.io/typing-svg)
   
 </div>
 
@@ -40,12 +40,12 @@
 ## <div align="center">🌟 Estatísticas do GitHub 🌟</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&border_radius=10&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Most Used Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHSGuimaraes&show_icons=true&theme=radical&border_radius=10&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSGuimaraes&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Most Used Languages" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=black-ice&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FF00&currStreakLabel=00FFFF&border=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHSGuimaraes&theme=black-ice&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FF00&currStreakLabel=00FFFF&border=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -54,8 +54,9 @@
 
 <div align="center">
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=Kenzei-Hamburgueria-PedroHSGuimares-React&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&border_color=00FFFF)](https://github.com/SEU_USERNAME/NOME_DO_REPOSITORIO)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPOSITORIO&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&border_color=00FFFF)](https://github.com/SEU_USERNAME/NOME_DO_REPOSITORIO)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Hairday&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&border_color=00FFFF)](https://github.com/PedroHSGuimaraes/--Hairday)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Refund-template&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&border_color=00FFFF)](https://github.com/PedroHSGuimaraes/--Refund-template)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Roketseat-Portal-de-noticias&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF&border_color=00FFFF)](https://github.com/PedroHSGuimaraes/--Roketseat-Portal-de-noticias)
   
 </div>
 
@@ -66,7 +67,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santos-guimarães-b06555121/)
-  [![Gmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedro.guimaraes02@hotmail.com)
+  [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedro.guimaraes02@hotmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531981192851)
   
 </div>
@@ -75,13 +76,13 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/PedroHSGuimaraes/PedroHSGuimaraes/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
 <div align="center">
   
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=SEU_USERNAME&label=Visitantes&labelColor=%23000000&countColor=%2300FFFF)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=PedroHSGuimaraes&label=Visitantes&labelColor=%23000000&countColor=%2300FFFF)
   
 </div>
 
