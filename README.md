@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=Engenharia+da+Computação;Desenvolvedor+Full+Stack;Belo+Horizonte%2C+MG%2C+Brasil)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=Ciência+da+Computação;Desenvolvedor+Full+Stack;Belo+Horizonte%2C+MG%2C+Brasil)](https://git.io/typing-svg)
   
 </div>
 
