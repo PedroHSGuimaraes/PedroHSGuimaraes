@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroHSGuimaraes&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Github Trophy" />
+ <img src="https://github-profile-trophy.vercel.app/?username=PedroHSGuimaraes&theme=onedark" alt="Github Trophy" />
   
 </div>
 
