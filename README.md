@@ -1,53 +1,63 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pedro%20Guimarães&fontSize=48&fontAlignY=38&animation=scaleIn)
 
-[![Typing SVG](https://readme-typing-svg. herokuapp.com? font=Roboto+Mono&size=20&pause=1000&color=FFFFFF&center=false&vCenter=false&width=400&lines=Full+Stack+Developer;Computer+Science;Belo+Horizonte%2C+MG%2C+Brasil)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science;Belo+Horizonte,+MG,+Brasil" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields. io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img. shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields. io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node. js&logoColor=white)
-![MongoDB](https://img. shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel. app/api?username=PedroHSGuimaraes&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSGuimaraes&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" height="150" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=PedroHSGuimaraes&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSGuimaraes&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats. herokuapp.com/?user=PedroHSGuimaraes&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="130" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHSGuimaraes&theme=dracula&hide_border=true" alt="GitHub Streak" height="130" />
+
 </div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Projetos
 
-<div align="center">
-
-[![Hairday](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Hairday&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/PedroHSGuimaraes/--Hairday)
-[![Refund Template](https://github-readme-stats. vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Refund-template&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/PedroHSGuimaraes/--Refund-template)
-[![Portal de Notícias](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Roketseat-Portal-de-noticias&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/PedroHSGuimaraes/--Roketseat-Portal-de-noticias)
+[![Hairday](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Hairday&theme=dracula&hide_border=true)](https://github.com/PedroHSGuimaraes/--Hairday)
+[![Refund Template](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Refund-template&theme=dracula&hide_border=true)](https://github.com/PedroHSGuimaraes/--Refund-template)
+[![Portal de Notícias](https://github-readme-stats.vercel.app/api/pin/?username=PedroHSGuimaraes&repo=--Roketseat-Portal-de-noticias&theme=dracula&hide_border=true)](https://github.com/PedroHSGuimaraes/--Roketseat-Portal-de-noticias)
 
 </div>
 
 ---
 
-## 📫 Contato
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5? style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin. com/in/pedro-henrique-santos-guimarães-b06555121/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedro. guimaraes02@hotmail. com)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santos-guimarães-b06555121/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedro.guimaraes02@hotmail.com)
 
 </div>
 
